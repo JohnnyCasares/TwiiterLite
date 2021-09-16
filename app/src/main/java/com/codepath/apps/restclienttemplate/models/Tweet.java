@@ -21,6 +21,7 @@ public class Tweet {
         tweet.id = jsonObject.getLong("id");
         tweet.user = User.fromJson(jsonObject.getJSONObject("user"));
 
+
         return tweet;
     }
 
