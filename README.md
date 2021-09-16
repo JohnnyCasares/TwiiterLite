@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src = 'Twittergif.gif'  title = 'Walkthrough' />
+<img src = 'twittergif.gif'  title = 'Walkthrough' />
 
 
 ## Notes
